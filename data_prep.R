@@ -106,18 +106,3 @@ tm_shape(spatial_data_MN) +
   tm_polygons(col = "mi_to_county", palette = "YlGnBu") + 
   tm_legend(position = c("right", "center"))
 spatial_data_MN
-
-# load time series data
-library(forecast)
-library(fpp2)
-library(ggplot2)
-library(readxl) 
-train <- read.csv("train.csv", header = TRUE)
-head(train)
-train_cases <- train %>% filter(Target == "ConfirmedCases") %>% filter(Country_Region == "US")
-head(train_cases)
-train_deaths <- train %>% filter(Target == "Fatalities") %>% filter(Country_Region == "US")
-train_casests <- ts(train_cases[, ], frequency = 365)
-train_deathsts <- ts(train_deaths[, ])
-autoplot(train_casests, facets = TRUE)
-autoplot(train_deathsts, facets = TRUE)
