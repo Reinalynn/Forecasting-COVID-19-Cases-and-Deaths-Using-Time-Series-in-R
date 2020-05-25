@@ -1,4 +1,5 @@
 # Update County_dist_maxpop file to include state, max_pop_county, and max_pop_countyname
+# code used to create "County_data_distance.csv" file necessary for EDA
 
 library(tidyverse)
 getwd()
