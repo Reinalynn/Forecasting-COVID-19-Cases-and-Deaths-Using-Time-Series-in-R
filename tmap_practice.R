@@ -1,3 +1,4 @@
+# http://zevross.com/blog/2018/10/02/creating-beautiful-demographic-maps-in-r-with-the-tidycensus-and-tmap-packages/
 # work through reference above to load in uninsured data from 2012 and 2016 census data
 # census_api_key("f2b7871922a305e526f71c250dc5ca8bc3752b19", install = TRUE)
 # readRenviron("~/.Renviron")
