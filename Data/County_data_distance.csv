@@ -51,18 +51,18 @@ county,countyname,state,max_pop_county,max_pop_countyname,mi_to_county,dist_cat,
 55079,Milwaukee County,WI,55079,Milwaukee County,0,1,N
 54011,Cabell County,WV,54011,Cabell County,0,1,N
 56021,Laramie County,WY,56021,Laramie County,0,1,N
-72033,CataÒo Municipio,PR,72127,San Juan Municipio,5.25,2,N
+72033,Cata√±o Municipio,PR,72127,San Juan Municipio,5.25,2,N
 72061,Guaynabo Municipio,PR,72127,San Juan Municipio,6.18,2,N
 72031,Carolina Municipio,PR,72127,San Juan Municipio,6.75,2,N
 72139,Trujillo Alto Municipio,PR,72127,San Juan Municipio,7.39,2,N
 36005,Bronx County,NY,36061,New York County,7.9,2,N
-72021,BayamÛn Municipio,PR,72127,San Juan Municipio,8.24,2,N
+72021,Bayam√≥n Municipio,PR,72127,San Juan Municipio,8.24,2,N
 72137,Toa Baja Municipio,PR,72127,San Juan Municipio,8.53,2,N
 36047,Kings County,NY,36061,New York County,9.82,2,N
 24005,Baltimore County,MD,24510,Baltimore County,9.88,2,N
 36081,Queens County,NY,36061,New York County,10.7,2,N
 29189,St. Louis County,MO,29510,St. Louis County,10.87,2,N
-72087,LoÌza Municipio,PR,72127,San Juan Municipio,11.4,2,N
+72087,Lo√≠za Municipio,PR,72127,San Juan Municipio,11.4,2,N
 72063,Gurabo Municipio,PR,72127,San Juan Municipio,11.81,2,N
 13067,Cobb County,GA,13121,Fulton County,12.01,2,N
 72007,Aguas Buenas Municipio,PR,72127,San Juan Municipio,12.12,2,N
@@ -70,7 +70,7 @@ county,countyname,state,max_pop_county,max_pop_countyname,mi_to_county,dist_cat,
 31153,Sarpy County,NE,31055,Douglas County,12.79,2,N
 72051,Dorado Municipio,PR,72127,San Juan Municipio,13.09,2,N
 44003,Kent County,RI,44007,Providence County,13.32,2,N
-72029,CanÛvanas Municipio,PR,72127,San Juan Municipio,13.59,2,N
+72029,Can√≥vanas Municipio,PR,72127,San Juan Municipio,13.59,2,N
 25021,Norfolk County,MA,25025,Suffolk County,13.87,2,N
 13089,DeKalb County,GA,13121,Fulton County,13.95,2,N
 72025,Caguas Municipio,PR,72127,San Juan Municipio,14.64,2,N
@@ -82,12 +82,12 @@ county,countyname,state,max_pop_county,max_pop_countyname,mi_to_county,dist_cat,
 13063,Clayton County,GA,13121,Fulton County,16.73,2,N
 31177,Washington County,NE,31055,Douglas County,16.77,2,N
 51550,Chesapeake city,VA,51810,Virginia Beach County,16.86,2,N
-72045,ComerÌo Municipio,PR,72127,San Juan Municipio,16.9,2,N
+72045,Comer√≠o Municipio,PR,72127,San Juan Municipio,16.9,2,N
 36085,Richmond County,NY,36061,New York County,17.1,2,N
 24027,Howard County,MD,24510,Baltimore County,17.11,2,N
 72077,Juncos Municipio,PR,72127,San Juan Municipio,17.24,2,N
 72143,Vega Alta Municipio,PR,72127,San Juan Municipio,17.6,2,N
-72119,RÌo Grande Municipio,PR,72127,San Juan Municipio,17.96,2,N
+72119,R√≠o Grande Municipio,PR,72127,San Juan Municipio,17.96,2,N
 21185,Oldham County,KY,21111,Jefferson County,18.19,2,N
 72041,Cidra Municipio,PR,72127,San Juan Municipio,18.2,2,N
 13097,Douglas County,GA,13121,Fulton County,18.22,2,N
@@ -183,7 +183,7 @@ county,countyname,state,max_pop_county,max_pop_countyname,mi_to_county,dist_cat,
 47165,Sumner County,TN,47037,Davidson County,27.61,3,N
 47189,Wilson County,TN,47037,Davidson County,27.63,3,N
 37109,Lincoln County,NC,37119,Mecklenburg County,27.63,3,N
-72091,ManatÌ Municipio,PR,72127,San Juan Municipio,27.72,3,N
+72091,Manat√≠ Municipio,PR,72127,San Juan Municipio,27.72,3,N
 28029,Copiah County,MS,28049,Hinds County,27.73,3,N
 25023,Plymouth County,MA,25025,Suffolk County,27.76,3,N
 72107,Orocovis Municipio,PR,72127,San Juan Municipio,27.92,3,N
@@ -335,7 +335,7 @@ county,countyname,state,max_pop_county,max_pop_countyname,mi_to_county,dist_cat,
 47125,Montgomery County,TN,47037,Davidson County,40.31,3,N
 12011,Broward County,FL,12086,Miami-Dade County,40.31,3,N
 17089,Kane County,IL,17031,Cook County,40.36,3,N
-72075,Juana DÌaz Municipio,PR,72127,San Juan Municipio,40.39,3,N
+72075,Juana D√≠az Municipio,PR,72127,San Juan Municipio,40.39,3,N
 18023,Clinton County,IN,18097,Marion County,40.4,3,N
 1125,Tuscaloosa County,AL,1073,Jefferson County,40.44,3,N
 25005,Bristol County,MA,25025,Suffolk County,40.45,3,N
@@ -481,7 +481,7 @@ county,countyname,state,max_pop_county,max_pop_countyname,mi_to_county,dist_cat,
 8039,Elbert County,CO,8031,Denver County,51.21,3,N
 22093,St. James Parish,LA,22071,Orleans Parish,51.22,3,N
 51620,Franklin city,VA,51810,Virginia Beach County,51.22,3,N
-72111,PeÒuelas Municipio,PR,72127,San Juan Municipio,51.22,3,N
+72111,Pe√±uelas Municipio,PR,72127,San Juan Municipio,51.22,3,N
 30103,Treasure County,MT,30111,Yellowstone County,51.33,3,N
 39007,Ashtabula County,OH,39035,Cuyahoga County,51.38,3,N
 23017,Oxford County,ME,23005,Cumberland County,51.48,3,N
@@ -585,7 +585,7 @@ county,countyname,state,max_pop_county,max_pop_countyname,mi_to_county,dist_cat,
 38081,Sargent County,ND,38017,Cass County,59.35,3,N
 46077,Kingsbury County,SD,46099,Minnehaha County,59.43,3,N
 72093,Maricao Municipio,PR,72127,San Juan Municipio,59.44,3,N
-72131,San Sebasti·n Municipio,PR,72127,San Juan Municipio,59.51,3,N
+72131,San Sebasti√°n Municipio,PR,72127,San Juan Municipio,59.51,3,N
 48181,Grayson County,TX,48113,Dallas County,59.55,3,N
 29221,Washington County,MO,29510,St. Louis County,59.56,3,N
 48497,Wise County,TX,48113,Dallas County,59.58,3,N
@@ -619,7 +619,7 @@ county,countyname,state,max_pop_county,max_pop_countyname,mi_to_county,dist_cat,
 40015,Caddo County,OK,40109,Oklahoma County,60.92,3,N
 20159,Rice County,KS,20173,Sedgwick County,61.09,3,N
 40107,Okfuskee County,OK,40109,Oklahoma County,61.14,3,N
-72083,Las MarÌas Municipio,PR,72127,San Juan Municipio,61.15,3,N
+72083,Las Mar√≠as Municipio,PR,72127,San Juan Municipio,61.15,3,N
 24017,Charles County,MD,24510,Baltimore County,61.17,3,N
 30009,Carbon County,MT,30111,Yellowstone County,61.2,3,N
 5025,Cleveland County,AR,5119,Pulaski County,61.29,3,N
@@ -677,7 +677,7 @@ county,countyname,state,max_pop_county,max_pop_countyname,mi_to_county,dist_cat,
 50027,Windsor County,VT,50007,Chittenden County,64.81,3,N
 31127,Nemaha County,NE,31055,Douglas County,64.82,3,N
 39169,Wayne County,OH,39035,Cuyahoga County,64.86,3,N
-72055,Gu·nica Municipio,PR,72127,San Juan Municipio,64.99,3,N
+72055,Gu√°nica Municipio,PR,72127,San Juan Municipio,64.99,3,N
 41053,Polk County,OR,41051,Multnomah County,65.2,3,N
 48097,Cooke County,TX,48113,Dallas County,65.23,3,N
 55055,Jefferson County,WI,55079,Milwaukee County,65.29,3,N
@@ -706,7 +706,7 @@ county,countyname,state,max_pop_county,max_pop_countyname,mi_to_county,dist_cat,
 27145,Stearns County,MN,27053,Hennepin County,66.98,3,Y
 5147,Woodruff County,AR,5119,Pulaski County,67.13,3,N
 17007,Boone County,IL,17031,Cook County,67.17,3,N
-72125,San Germ·n Municipio,PR,72127,San Juan Municipio,67.2,3,N
+72125,San Germ√°n Municipio,PR,72127,San Juan Municipio,67.2,3,N
 1105,Perry County,AL,1073,Jefferson County,67.24,3,N
 8041,El Paso County,CO,8031,Denver County,67.27,3,N
 54107,Wood County,WV,54011,Cabell County,67.3,3,N
@@ -774,7 +774,7 @@ county,countyname,state,max_pop_county,max_pop_countyname,mi_to_county,dist_cat,
 20151,Pratt County,KS,20173,Sedgwick County,70.09,3,N
 45009,Bamberg County,SC,45019,Charleston County,70.11,3,N
 41007,Clatsop County,OR,41051,Multnomah County,70.25,3,N
-72011,AÒasco Municipio,PR,72127,San Juan Municipio,70.34,3,N
+72011,A√±asco Municipio,PR,72127,San Juan Municipio,70.34,3,N
 1075,Lamar County,AL,1073,Jefferson County,70.36,3,N
 33009,Grafton County,NH,33011,Hillsborough County,70.37,3,N
 40123,Pontotoc County,OK,40109,Oklahoma County,70.4,3,N
@@ -909,7 +909,7 @@ county,countyname,state,max_pop_county,max_pop_countyname,mi_to_county,dist_cat,
 1123,Tallapoosa County,AL,1073,Jefferson County,79.34,4,N
 13137,Habersham County,GA,13121,Fulton County,79.4,4,N
 21117,Kenton County,KY,21111,Jefferson County,79.43,4,N
-72117,RincÛn Municipio,PR,72127,San Juan Municipio,79.49,4,N
+72117,Rinc√≥n Municipio,PR,72127,San Juan Municipio,79.49,4,N
 1019,Cherokee County,AL,1073,Jefferson County,79.73,4,N
 17075,Iroquois County,IL,17031,Cook County,79.74,4,N
 13079,Crawford County,GA,13121,Fulton County,79.83,4,N
@@ -1563,7 +1563,7 @@ county,countyname,state,max_pop_county,max_pop_countyname,mi_to_county,dist_cat,
 48395,Robertson County,TX,48113,Dallas County,121.31,4,N
 1011,Bullock County,AL,1073,Jefferson County,121.44,4,N
 13235,Pulaski County,GA,13121,Fulton County,121.46,4,N
-72097,Mayag¸ez Municipio,PR,72127,San Juan Municipio,121.58,4,N
+72097,Mayag√ºez Municipio,PR,72127,San Juan Municipio,121.58,4,N
 13261,Sumter County,GA,13121,Fulton County,121.73,4,N
 19131,Mitchell County,IA,19153,Polk County,121.74,4,N
 21237,Wolfe County,KY,21111,Jefferson County,121.75,4,N
@@ -2339,7 +2339,7 @@ county,countyname,state,max_pop_county,max_pop_countyname,mi_to_county,dist_cat,
 48021,Bastrop County,TX,48113,Dallas County,186.72,5,N
 31083,Harlan County,NE,31055,Douglas County,186.82,5,N
 47089,Jefferson County,TN,47037,Davidson County,186.83,5,N
-35013,DoÒa Ana County,NM,35001,Bernalillo County,187,5,N
+35013,Do√±a Ana County,NM,35001,Bernalillo County,187,5,N
 30025,Fallon County,MT,30111,Yellowstone County,187.2,5,N
 20081,Haskell County,KS,20173,Sedgwick County,187.21,5,N
 37065,Edgecombe County,NC,37119,Mecklenburg County,187.37,5,N
